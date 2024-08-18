@@ -1,2 +1,26 @@
 # GoStore
-A modern, lightweight e-commerce platform built with Golang, PostgreSQL, and Bootstrap for seamless shopping experiences.
+Basic E-Commerce Web App built with GO
+
+# Features
+- Home Page
+- Register, Login, Profil User
+- Products Page
+- Single Product Page
+- Shopping Cart
+- CheckOut
+  - Shiping Cost Calculation
+  - Payment Gateway
+- Order History
+- Admin Panel :
+  - Dashboard
+  - Manage Products
+  - Manage Users
+  - Reports
+  - Configuration
+
+# Technology Stack
+- Golang :
+  - Gorila Max
+  - Gorm
+- PostgreSQL
+- Bootstrap
