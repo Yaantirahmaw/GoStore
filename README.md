@@ -20,7 +20,7 @@ Basic E-Commerce Web App built with GO
 
 # Technology Stack
 - Golang :
-  - Gorila Max
+  - Gorilla Mux
   - Gorm
 - PostgreSQL
 - Bootstrap
